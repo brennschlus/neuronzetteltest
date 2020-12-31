@@ -2,6 +2,9 @@
 tags: [home]
 ---
 
-# Neuron Template
+# Index
+
+Neuron — приложение для управления текстовыми файлами в стиле Zettelkasten
+
 [[9586bcf4]]
 
